@@ -6,5 +6,6 @@ A simple text -base Hangman game made using python.
 - Console -base game
 ## Technologies used 
 -python
+ 
 ##How to run
 Run the python file in any python environment 
